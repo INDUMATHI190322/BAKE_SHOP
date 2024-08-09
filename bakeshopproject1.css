@@ -1,0 +1,196 @@
+.bar
+{
+	margin-bottom:0px!important;
+}
+	.one
+{
+	text-align:center;
+  font-family: "Dancing Script", serif;
+
+}
+.two
+{
+	text-align:center;
+	font-family:serif;
+	font-size:2em;
+}
+.about
+{   
+    text-align:center;
+	font-family:serif;
+	text-shadow:2px 2px 5px red;
+}
+.three
+{
+	 text-align:center;
+	font-size:20px;
+}
+.four
+{
+	
+	border-style:hidden;
+	
+}
+.foot
+{
+		  background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmAgYsYDmL2bSN7vj5Y3X1rsub-gwdRc7qug&s");
+		background-size:cover;
+	  
+}
+.head
+{
+	margin-bottom:0px!important;
+}
+.box{
+	border-color:black;
+	border-width:2px;
+	border-style:solid;
+	display:inline-block;
+	width:270px;
+	border-style:hidden;
+}
+.box1
+{
+	
+	text-align:center;
+	color:black;
+	font-size:32px;
+	display:block;
+	text-decoration-line:overline;
+	text-decoration-line:none;
+	
+	
+		
+}
+.products
+{
+	text-align:center;
+}
+.title
+{
+	font-size:79px;
+	text-shadow:5px 2px 5px blue;
+	text-align:center;
+	font-family: "Dancing Script", serif;
+
+}
+.cake1
+{
+	border-color:black;
+	border-width:2px;
+	border-style:hidden;
+	
+	
+}
+.cakeone
+{
+
+	text-align:center;
+	color:black;
+	font-size:32px;
+	display:block;
+	margin-bottom:0px!important;
+}
+.cimg1
+{
+		margin-bottom:0px!important;
+}
+.form1
+{
+	border-style:ridge;
+}
+
+.Button
+{
+	border:solid 2px black;
+	width:300px;
+}
+.user
+{
+	width:300px;
+}
+.acc
+{
+	border:solid 2px black;
+	width:350px;
+	display:block;
+	border-radius:10px;
+	height:30px;
+	
+}
+.alert
+{
+	text-align:center;
+	width:300px;
+}
+.signup
+{
+	width:260px;
+}
+.email
+{
+	width:280px;
+}
+.pass{
+	width:270px;
+}
+.already
+{
+	display:inline;
+}
+.cakes
+{
+	font-family:serif;
+}
+
+.header{
+  font-family: "Style Script", cursive;
+  font-weight: 400;
+  font-style: normal;
+  text-align:center;
+  word-spacing:20px;
+  text-shadow:4px 4px blue;
+  font-size:79px;
+  
+}
+.call
+{
+	width:2px;
+}
+.front
+{
+	text-align:center;
+	color:black;
+	font-size:48px;
+	word-spacing:20px;
+font-family: "Dancing Script", serif;
+}
+.service
+{
+	text-align:center;
+  font-family: "Dancing Script", serif;
+    word-spacing:20px;
+  font-size:79px;
+}
+.gift
+{
+	  text-align:center;
+  font-family: "Dancing Script", serif;
+    word-spacing:10px;
+  font-size:50px;
+}
+.underline{
+	text-align:center;
+		color:black;
+  font-family: serif;
+    word-spacing:5px;
+  font-size:20px;
+}
+	
+  
+	
+	
+	
+
+
+
